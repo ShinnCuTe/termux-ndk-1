@@ -1,1 +1,1 @@
-![](termux.png)
+## android ndk for Android aarch64
